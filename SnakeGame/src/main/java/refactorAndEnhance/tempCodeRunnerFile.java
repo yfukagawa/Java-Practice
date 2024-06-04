@@ -1,0 +1,4 @@
+  // clickStart();
+        // if(clickStart()){
+        //     startGame();
+        // }
